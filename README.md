@@ -23,4 +23,16 @@ Author - Suraj Kumar Rana
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/suraj-rana26/project60-APL/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suraj-rana26/project60-APL/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suraj-rana26/project60-APL/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suraj-rana26/project60-APL/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
