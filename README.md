@@ -9,6 +9,7 @@ Author - Suraj Kumar Rana
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suraj-rana26/project60-APL/tree/master/0014-longest-common-prefix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/suraj-rana26/project60-APL/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |
