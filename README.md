@@ -27,6 +27,7 @@ Author - Suraj Kumar Rana
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/suraj-rana26/project60-APL/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/suraj-rana26/project60-APL/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -35,4 +36,16 @@ Author - Suraj Kumar Rana
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/suraj-rana26/project60-APL/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/suraj-rana26/project60-APL/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/suraj-rana26/project60-APL/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/suraj-rana26/project60-APL/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
